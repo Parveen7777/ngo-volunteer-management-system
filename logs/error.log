@@ -1,0 +1,5 @@
+[2026-08-15 11:00:15] ERROR: Invalid login attempt for email invalid@example.com
+[2026-08-15 11:05:42] ERROR: Database connection timeout.
+[2026-08-15 11:15:20] ERROR: Volunteer record not found (ID: 99).
+[2026-08-15 11:30:55] ERROR: Failed to generate PDF report.
+[2026-08-15 11:45:12] ERROR: Unexpected server exception occurred.
